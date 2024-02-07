@@ -20,7 +20,7 @@ The QUARCS installation
 I'd like for you to follow this sequence to install the whole project. Please follow the README.MD in each part. The installation is tested under the empty Ubuntu22.04
 
 1. QUARCS server.
-2. QUARCS user clinet frontend (Stellarium web edition)
-3. QUARCS node js Transponder
-4. Modified PHD2 guider
+2. Modified PHD2 guider
+3. QUARCS user clinet frontend (Stellarium web edition)
+4. QUARCS node js Transponder
 5. QUARCS app
