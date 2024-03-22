@@ -1,7 +1,7 @@
 # QUARCS_README
 
-![IMG_1062](https://github.com/QHYCCD-QUARCS/QUARCS_stellarium-web-engine/assets/158538628/7d79693e-8a28-4963-b2cd-e9b7efe334fa)
-![IMG_1064](https://github.com/QHYCCD-QUARCS/QUARCS_stellarium-web-engine/assets/158538628/2205c6c7-cbc2-4e7c-a3ea-f8e5bdda657b)
+![样机-1](https://github.com/QHYCCD-QUARCS/QUARCS_stellarium-web-engine/assets/158538628/d4790bf1-ee0c-42b4-9865-c616eecdc49d)
+![样机-2](https://github.com/QHYCCD-QUARCS/QUARCS_stellarium-web-engine/assets/158538628/93b78d5b-8c77-4dca-a3e2-ef6b4750899b)
 
 Q.U.A.R.C.S  (QHYCCD Universal Astrophotographic Remote Capture System) is an open-source software kit that supports the full function of mobile remote capture via WIFI and computer remote capture via LAN. It includes the mount control, camera control, autoguiding, electric focuser control, and Stellarium skymap function. 
 
