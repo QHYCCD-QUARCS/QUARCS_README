@@ -27,3 +27,6 @@ I'd like for you to follow this sequence to install the whole project. Please fo
 3. QUARCS user clinet frontend (Stellarium web edition)
 4. QUARCS node js Transponder
 5. QUARCS app
+
+
+Welcome to join the QUARUS Discod discussion group for online discussions (https://discord.gg/uHTPfJ5uuV)
